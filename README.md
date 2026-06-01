@@ -22,8 +22,8 @@ Actualmente estoy construyendo habilidades en:
 ## 🛠️ Tecnologías y herramientas
 
 ### 📊 Data
-- SQL (en aprendizaje)- Orientado al análisis de registros, auditoría y gestión de logs.
-- Python (en progreso)-Enfocado a la automatización de tareas de seguridad y análisis de registros/logs).
+- SQL (en aprendizaje) - Orientado al análisis de registros, auditoría y gestión de logs.
+- Python (en progreso) - Enfocado a la automatización de tareas de seguridad y análisis de registros/logs).
 - Excel / Google Sheets
 - Visualización de datos
 
@@ -50,10 +50,10 @@ Actualmente estoy construyendo habilidades en:
 
 ## 🧭 Roadmap 2026
 
-* 🟩 **[x]** Fundamentos de TI y Consola de Comandos (SANS Cyber Aces)
-* 🟦 **[ ]** Análisis de redes y tráfico de datos con Wireshark
-* 🟨 **[ ]** Automatización de scripts de seguridad con Python (Conexión con mi App de Traducción)
-* 🟧 **[ ]** Especialización en SOC Operations y Monitoreo de Amenazas (Splunk / Cisco)
+* [ x ]** Fundamentos de TI y Consola de Comandos (SANS Cyber Aces)
+* [ ]** Análisis de redes y tráfico de datos con Wireshark
+* [ ]** Automatización de scripts de seguridad con Python (Conexión con mi App de Traducción)
+* [ ]** Especialización en SOC Operations y Monitoreo de Amenazas (Splunk / Cisco)
 
 ---
 
