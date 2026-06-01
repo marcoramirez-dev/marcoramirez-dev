@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mí
 
-Soy un profesional en transición hacia el mundo de la tecnología, enfocado en el análisis de datos y el desarrollo de aplicaciones, Fundamentos de redes, tráfico de datos (Wireshark) y seguridad defensiva.
+Soy un profesional en transición hacia el mundo de la tecnología, enfocado en el análisis de datos, Fundamentos de redes, tráfico de datos (Wireshark) y seguridad defensiva y el desarrollo de aplicaciones.
 
 Actualmente estoy construyendo habilidades en:
 - Análisis de datos
