@@ -1,6 +1,6 @@
 # 👋 Hola, soy Marco Ramírez
 
-🎯 Data Analyst en formación | Flutter Developer en progreso  
+🎯 Cybersecurity Analyst & Developer en formación | Especializándome en Redes, SOC (Splunk) y Automatización con Python.  
 💻 CAD Designer en Align Technology  
 📍 Costa Rica  
 
@@ -13,17 +13,17 @@ Soy un profesional en transición hacia el mundo de la tecnología, enfocado en 
 Actualmente estoy construyendo habilidades en:
 - Análisis de datos
 - Desarrollo móvil con Flutter
+- Fundamentos de redes, tráfico de datos (Wireshark) y seguridad defensiva.
 - Pensamiento analítico y resolución de problemas
-
-Me interesa crear proyectos reales que generen impacto y seguir creciendo constantemente.
+- Me interesa crear proyectos reales que generen impacto y seguir creciendo constantemente.
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
 ### 📊 Data
-- SQL (en aprendizaje)
-- Python (en progreso)
+- SQL (en aprendizaje)- Orientado al análisis de registros, auditoría y gestión de logs.
+- Python (en progreso)-Enfocado a la automatización de tareas de seguridad y análisis de registros/logs).
 - Excel / Google Sheets
 - Visualización de datos
 
@@ -37,17 +37,23 @@ Me interesa crear proyectos reales que generen impacto y seguir creciendo consta
 
 - 📊 Mejorar mis habilidades en análisis de datos
 - 📱 Aprender Flutter y desarrollar mis primeras apps
+- 🛡️ Comenzando mi especialización técnica en Cybersecurity Defense Analyst (Cisco/Splunk) y laboratorios de sistemas operativos (SANS).
 - 🧠 Construir disciplina y consistencia en el aprendizaje
 
 ---
+### 🛡️ Ciberseguridad
+
+* 🦈 **Wireshark** (Análisis de paquetes de red)
+* 🛡️ **Splunk SIEM** (En aprendizaje / Monitoreo de amenazas)
+* 🌐 **Gestión de Redes** (Fundamentos y protocolos)
+
 
 ## 🧭 Roadmap 2026
 
-- ✔️ Fundamentos de análisis de datos
-- 🔄 Proyectos con SQL y Python
-- 🔄 Primeros proyectos en Flutter
-- ⏳ Portafolio profesional
-- ⏳ Primer trabajo como Data Analyst Jr
+* 🟩 **[x]** Fundamentos de TI y Consola de Comandos (SANS Cyber Aces)
+* 🟦 **[ ]** Análisis de redes y tráfico de datos con Wireshark
+* 🟨 **[ ]** Automatización de scripts de seguridad con Python (Conexión con mi App de Traducción)
+* 🟧 **[ ]** Especialización en SOC Operations y Monitoreo de Amenazas (Splunk / Cisco)
 
 ---
 
